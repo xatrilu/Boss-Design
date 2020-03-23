@@ -18,7 +18,7 @@ On this website, I will to analyse the following aspects about video games bosse
 
 
 # Video game boss definition and meaning to the player: 
-“I try to remember these two points at all times while designing a boss battle: a boss is a test and a boss is a story". [https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php?print=1] (Mike Stout – Boss Battle Design and Structure).
+“I try to remember these two points at all times while designing a boss battle: a boss is a test and a boss is a story".(Mike Stout – Boss Battle Design and Structure).
 
 A videogame boss can be described as an entity whose duty relies on testing the mastery of the player on the skills that they have learned through the game, in order to make sure that they have gained the knowledge and that they are able to keep evolving to face what it is ahead of him. In order to make sure that the player is well tested, they need to be difficult enough so they need to put their skills to prove and feel engaged while doing it, but not too difficult so the situation doesn’t feel unfair or overwhelming to the player.
 
