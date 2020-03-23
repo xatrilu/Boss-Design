@@ -2,7 +2,7 @@
 <img src="docs/Main-Picture.png" width = "580" height = "350" class ="inline">
 <img>
   
-I am https://www.linkedin.com/in/xavier-trillo-lucero-9b19851a4/ (Xavier Trillo), student of the (Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer https://www.linkedin.com/in/mgarrigo/ (Marc Garrigó).
+I am [https://www.linkedin.com/in/xavier-trillo-lucero-9b19851a4/](https://www.linkedin.com/in/xavier-trillo-lucero-9b19851a4/) (Xavier Trillo), student of the (Bachelor’s Degree in Video Games by UPC at CITM). This content is generated for the second year’s subject Project 2, under supervision of lecturer [https://www.linkedin.com/in/mgarrigo/](https://www.linkedin.com/in/mgarrigo/) (Marc Garrigó).
 
 # Introduction: 
 Video game bosses are one of the oldest and most recurring traditions in the video game industry. Through the years, they have been the source of important memories that a lot of people come back to when remembering their favourite videogames, specially, what they liked about them. Because of this, the design of a boss in a videogame can be one of the main influences that shape the opinion of someone about the game as a hole and, as such, they deserved to be treated with a very special care.
